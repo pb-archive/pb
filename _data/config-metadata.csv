@@ -1,8 +1,14 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
+browse_link,Doc URL,,,,
 creator,Creator,,,DCTERMS.creator,creator
+editor,Editor,,,DCTERMS.editor
+recipient,Recipient,,,DCTERSM.recipient
+pb notes,Author Notes,,,,
+db notes,Editor Notes,,,,
 date,Date Created,,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
+genre,Genres,true,,DCTERMS.genre,keywords
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
 latitude,Latitude,,,,
